@@ -1,0 +1,11 @@
+shell fish
+
+font-size 20.0
+
+
+# BEGIN_KITTY_THEME
+# 1984 Dark
+include current-theme.conf
+# END_KITTY_THEME
+
+
